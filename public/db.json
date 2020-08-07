@@ -1,0 +1,67 @@
+{
+  "guests": [
+    {
+      "id": 1,
+      "firstName": "Frodo",
+      "lastName": "Baggins",
+      "email": "baggins@gmail.com",
+      "invite_status" : "Invited"
+    },
+    {
+      "id": 2,
+      "firstName": "Samuel",
+      "lastName": "Gamgi",
+      "email": "gamgi@gmail.com",
+      "invite_status" : "Invited"
+    },
+    {
+      "id": 3,
+      "firstName": "Daenerys",
+      "lastName": "Targaryen",
+      "email": "targaryen@gmail.com",
+      "invite_status" : "Invited"
+    },
+    {
+      "id": 4,
+      "firstName": "John",
+      "lastName": "Snow",
+      "email": "snow@gmail.com",
+      "invite_status" : "Invited"
+    },
+    {
+      "id": 5,
+      "firstName": "Bob",
+      "lastName": "Spanch",
+      "email": "spanch@gmail.com",
+      "invite_status" : "Invited"
+    },
+    {
+      "id": 6,
+      "firstName": "Gandalf",
+      "lastName": "the Grey",
+      "email": "gandalf@gmail.com",
+      "invite_status" : "Invited"
+    },
+    {
+      "id": 7,
+      "firstName": "Peregrin",
+      "lastName": "Took",
+      "email": "peregrin@gmail.com",
+      "invite_status" : "Invited"
+    },
+    {
+      "id": 8,
+      "firstName": "Meriadoc",
+      "lastName": "Meriadoc",
+      "email": "meriadoc@gmail.com",
+      "invite_status" : "Invited"
+    },
+    {
+      "id": 9,
+      "firstName": "Aragorn",
+      "lastName": "Isildur",
+      "email": "aragorn@gmail.com",
+      "invite_status" : "Invited"
+    }
+  ]
+}
