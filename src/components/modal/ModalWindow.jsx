@@ -33,7 +33,6 @@ export default ModalWindow;
 
 ModalWindow.propTypes = {
     show:PropTypes.bool.isRequired,
-    guests:PropTypes.array.isRequired,
     handleClose:PropTypes.func,
     handleChange:PropTypes.func
 };
