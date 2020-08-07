@@ -1,5 +1,6 @@
 import React from 'react';
 import {Modal,Button} from 'react-bootstrap';
+import PropTypes from "prop-types";
 
 function ModalWindow({show, handleClose,handleChange, guest}) {
 
@@ -27,3 +28,12 @@ function ModalWindow({show, handleClose,handleChange, guest}) {
 
 }
 export default ModalWindow;
+
+
+
+ModalWindow.propTypes = {
+    show:PropTypes.bool.isRequired,
+    guests:PropTypes.array.isRequired,
+    handleClose:PropTypes.func,
+    handleChange:PropTypes.func
+};
