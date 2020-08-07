@@ -15,4 +15,5 @@ You will also see any lint errors in the console.
 
 ### `yarn server`
 
-Runs JSON server to get data for app. 
+Runs JSON server 
+Open [http://localhost:3001](http://localhost:3001) to get data for app. 
